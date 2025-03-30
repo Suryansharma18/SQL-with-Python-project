@@ -1,1 +1,1 @@
-# SQL-with-Python-project
+# Diwali-sales-analysis
